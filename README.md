@@ -5,4 +5,4 @@
 
 - **Media Queries:** Media queries para aplicar estilos específicos com base nas características do dispositivo, como largura da tela, densidade de pixels e orientação. Isso nos permitiu otimizar a apresentação do conteúdo para diferentes contextos de visualização.
 
-- **Testes em Dispositivos:** Como foi o pedido do desafio está página está configurada para Iphone e um tela de 1280px.
+- **Testes em Dispositivos:** Como foi o pedido do desafio está página está configurada para Iphone 14 pro max e um tela de 1280px.
