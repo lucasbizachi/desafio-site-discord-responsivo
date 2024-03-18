@@ -7,7 +7,7 @@
 
 - **Testes em Dispositivos:** Como foi o pedido do desafio está página está configurada para Iphone 14 pro max e um tela de 1280px.
 
-- 
+
 <div style="display:flex; flex-direction: column;">
     <img src="https://github.com/lucasbizachi/desafio-site-discord-responsivo/assets/101759223/a31a215c-e51f-49e9-a3d7-4cf6d14ada49" alt="1280px" style="width:100%">
     <div style="display:flex; flex-direction: row;">
