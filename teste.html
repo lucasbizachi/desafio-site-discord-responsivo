@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        .break-row {
+            white-space: pre-line;
+        }
+
+        .break-row-2 {
+            white-space: pre-line;
+            display: none;
+        }
+
+        @media screen and (max-width: 480px) {
+            .break-row {
+                display: none;
+            }
+            .break-row-2 {
+                display: block;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="break-row">
+        Este é um texto que
+        terá uma quebra de linha
+        onde houver um salto de linha no código HTML.
+    </div>
+    
+
+    <div class="break-row-2">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum dolores hic velit consequuntur veritatis! Quod quos sint qui, exercitationem modi eum labore, a quam quidem, laudantium voluptate fuga aliquam soluta!.
+    </div>
+    
+</body>
+</html>
